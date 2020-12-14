@@ -27,5 +27,10 @@ export default {
 			type: 'array',
 			of: [{ type: 'menuItem' }],
 		},
+		{
+			title: 'Textruta',
+			name: 'textruta',
+			type: 'string',
+		},
 	],
 }
